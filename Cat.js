@@ -1,4 +1,4 @@
 function Cat() {
-  this.stomach = [];
+  this.stomach1 = [];
 }
 module.exports = Cat;
