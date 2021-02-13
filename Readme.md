@@ -15,4 +15,4 @@ mkdir
   /////
   git checkout -b <branch> : Create new branch and access.
   git checkout <branch> : Access file to work
-  git merge
+  git merge : Merge branch access master
