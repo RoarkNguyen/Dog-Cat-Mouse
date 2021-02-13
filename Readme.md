@@ -8,3 +8,11 @@ mkdir
 - git show
 - git diff
   //////
+  - gitk : UI git
+    ////
+- git checkout -- <file> : Undo change in file
+- git reset HEAD <file> : Undo when error add
+  /////
+  git checkout -b <branch> : Create new branch and access.
+  git checkout <branch> : Access file to work
+  git merge
